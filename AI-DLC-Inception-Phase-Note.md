@@ -1,12 +1,5 @@
 # AI-DLC Inception Phase Note
 
-## Source
-
-```md
-https://catalog.us-east-1.prod.workshops.aws/workshops/a1753e26-c705-4920-88f8-09ee62b203eb/en-US/01-introduction/12-inception
-```
-
----
 
 # 1. Inception Phase ဆိုတာဘာလဲ?
 
@@ -617,3 +610,5 @@ Inception prepares the project so Construction can build the right code.
 Inception က code မရေးသေးပါ။
 Construction phase မှာ မှန်ကန်တဲ့ code ရေးနိုင်ဖို့ project ကို အရင်ပြင်ဆင်တဲ့အဆင့်ပါ။
 ```
+
+Original Link => https://catalog.us-east-1.prod.workshops.aws/workshops/a1753e26-c705-4920-88f8-09ee62b203eb/en-US/01-introduction/12-inception#always-executed-stages
