@@ -1,4 +1,4 @@
-# AI-DLC Note  
+# Understanding AI DLC 
 ## AI-Driven Development Lifecycle
 
 ## 1. AI-DLC ဆိုတာဘာလဲ?
