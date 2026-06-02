@@ -1,11 +1,5 @@
 # AI-DLC Construction Phase Note
 
-## Source
-
-This note is based on the uploaded text about **Step 2: Construction** in AI-DLC.
-
----
-
 # 1. Construction Phase ဆိုတာဘာလဲ?
 
 **Construction Phase** ဆိုတာ Inception Phase မှာ သတ်မှတ်ထားတဲ့ **development units** တွေကို actual working software အဖြစ် ပြောင်းလဲတဲ့အဆင့်ဖြစ်ပါတယ်။
@@ -1004,3 +998,5 @@ Quality requirements တွေသတ်မှတ်ပါ။
 Code generation plan ဆွဲပါ။
 ပြီးမှ build and test လုပ်ပါ။
 ```
+
+Original Link => https://catalog.us-east-1.prod.workshops.aws/workshops/a1753e26-c705-4920-88f8-09ee62b203eb/en-US/01-introduction/13-construction
