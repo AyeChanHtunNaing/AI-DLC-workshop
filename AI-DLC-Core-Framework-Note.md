@@ -1,4 +1,4 @@
-# AI-DLC Core Framework Note
+# AI-DLC Core Framework 
 
 # 1. AI-DLC Core Framework ဆိုတာဘာလဲ?
 
@@ -921,3 +921,5 @@ AI-DLC is about better collaboration, better design, better validation, and bett
 
 > AI-DLC ဆိုတာ code မြန်မြန်ရေးဖို့တစ်ခုတည်းမဟုတ်ပါဘူး။  
 > AI နဲ့ လူသားပူးပေါင်းပြီး design ပိုကောင်းအောင်၊ validation ပိုစနစ်ကျအောင်၊ operations ပိုတည်ငြိမ်အောင်လုပ်တဲ့ development framework ဖြစ်ပါတယ်။
+
+Original Link => https://catalog.us-east-1.prod.workshops.aws/workshops/a1753e26-c705-4920-88f8-09ee62b203eb/en-US/01-introduction/11-core-framework#collaboration-flow
